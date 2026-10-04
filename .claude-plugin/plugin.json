@@ -15,5 +15,11 @@
     "printing",
     "slabs"
   ],
-  "repository": "https://github.com/mummlabs/snapshot-claude-plugin"
+  "repository": "https://github.com/mummlabs/snapshot-claude-plugin",
+  "displayName": "Snapshot",
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://www.makesnapshots.com/claude",
+  "supportUrl": "https://www.makesnapshots.com/contact",
+  "privacyPolicyUrl": "https://www.makesnapshots.com/privacy#claude",
+  "termsOfServiceUrl": "https://www.makesnapshots.com/terms"
 }
