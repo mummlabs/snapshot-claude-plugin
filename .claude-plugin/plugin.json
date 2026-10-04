@@ -14,5 +14,6 @@
     "trading-cards",
     "printing",
     "slabs"
-  ]
+  ],
+  "repository": "https://github.com/mummlabs/snapshot-claude-plugin"
 }
