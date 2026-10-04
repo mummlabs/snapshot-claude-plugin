@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "snapshot": {
+      "type": "http",
+      "url": "https://www.makesnapshots.com/api/claude/mcp"
+    }
+  }
+}

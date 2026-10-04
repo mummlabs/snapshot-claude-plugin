@@ -1,0 +1,18 @@
+{
+  "name": "snapshot",
+  "version": "1.0.0",
+  "description": "Create front and back trading cards from photos with Snapshot templates or AI, preview physical cards and slabs, and continue to Snapshot for checkout.",
+  "author": {
+    "name": "Snapshot",
+    "email": "support@makesnapshots.com",
+    "url": "https://www.makesnapshots.com"
+  },
+  "homepage": "https://www.makesnapshots.com/claude",
+  "license": "MIT",
+  "keywords": [
+    "sports-cards",
+    "trading-cards",
+    "printing",
+    "slabs"
+  ]
+}
