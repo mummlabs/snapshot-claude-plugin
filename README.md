@@ -8,7 +8,7 @@ This is the submission candidate. Directory approval and publication are pending
 
 ## Connect and create
 
-1. Install this plugin in Claude. Open its Connectors tab and connect Snapshot. Alternatively, add `https://www.makesnapshots.com/api/claude/mcp` as a custom connector.
+1. Install this plugin in Claude. Open its Connectors tab and connect Snapshot. Alternatively, add `https://www.makesnapshots.com/api/claude/mcp` as a custom connector, choosing **Sign in now** and **Register automatically**.
 2. Sign in to your own Snapshot account on makesnapshots.com and allow the requested card and cart access.
 3. Ask Claude to open the Snapshot card studio. Use **Upload photo** or the front/back upload controls to select your image. Images are uploaded privately to your account. A photo attached only to the conversation may need to be selected again in the studio; do not paste private file links into the chat.
 4. Choose a Snapshot template or AI style and provide the details to print. Review the front and back, then choose a product, finish, quantity and any slab label text.
